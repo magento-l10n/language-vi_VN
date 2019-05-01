@@ -1,5 +1,6 @@
 {
     "name": "community-engineering/language-vi_vn",
+    "version": "0.0.1",
     "type": "magento2-language",
     "description": "vi_VN language package.",
     "license": [
@@ -14,7 +15,7 @@
     },
     "autoload": {
         "files": [
-          "registration.php"
+            "registration.php"
         ]
     }
 }
