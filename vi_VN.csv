@@ -1,6 +1,7 @@
 All,"Tất Cả"
 None,"Không cái nào"
 "Allowed Scopes","Phạm vi được phép"
+"More permissions are needed to delete the ""%1"" item.","Cần thêm quyền quản trị để xoá ""%1"" này đi."
 "You need more permissions to apply some of the rule updates.","Bạn cần thêm quyền để áp dụng một số quy tắc Cập Nhật."
 "Role Scopes","Phạm vi ghi vai trò"
 Custom,"Tùy chỉnh"
